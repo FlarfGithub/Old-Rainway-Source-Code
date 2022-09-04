@@ -5,4 +5,4 @@ I am sorry about the launcher but it is outdated and wont work with hats and clo
 If you use this source you should hella modify it cause it is dog shit.
 
 (2022 UPDATE)
-Please do not use this code at all, it is all stolen and 100 percent vulnerable with no security, no actual renders and breachable md5, go check out https://github.com/Flofy-Dev/rainway-source for an actual good source code. Mostly maintained by flofy but i contribute to it.
+Please do not use this code at all, it is mostly stolen and 100 percent vulnerable with no security, no actual renders and breachable md5, go check out https://github.com/Flofy-Dev/rainway-source for an actual good source code. Mostly maintained by flofy but i contribute to it.
